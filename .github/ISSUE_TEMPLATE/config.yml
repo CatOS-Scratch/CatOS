@@ -1,0 +1,8 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Help
+    url: https://github.com/CatOS-Scratch/CatOS/discussions/new?category=Help
+    about: Get help
+  - name: Discussions
+    url: https://github.com/CatOS-Scratch/CatOS/discussions/
+    about: Our forums
