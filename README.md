@@ -1,9 +1,6 @@
 # EasyOS
-<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
-<!-- ALL-CONTRIBUTORS-BADGE:END -->
 
-[![Open issues](https://img.shields.io/github/issues-raw/CatOS-Scratch/CatOS?logo=github)](https://github.com/CatOS-Scratch/CatOS/issues) ![Last commit](https://img.shields.io/github/last-commit/CatOS-Scratch/CatOS?logo=github) ![Repo file count](https://img.shields.io/github/directory-file-count/CatOS-Scratch/CatOS?label=file%20count&logo=github) ![Repo size in bytes](https://img.shields.io/github/repo-size/CatOS-Scratch/CatOS?logo=github) ![Code size in bytes](https://img.shields.io/github/languages/code-size/CatOS-Scratch/CatOS?logo=scratch) [![Latest stable release](https://img.shields.io/github/v/release/CatOS-Scratch/CatOS?label=latest%20stable%20release&logo=github)](https://github.com/CatOS-Scratch/CatOS/releases/latest) [![Latest public beta release](https://img.shields.io/github/v/release/CatOS-Scratch/CatOS?include_prereleases&label=latest%20public%20beta%20release&logo=github)](https://github.com/CatOS-Scratch/CatOS/releases) [![License](https://img.shields.io/github/license/CatOS-Scratch/CatOS?logo=scratch)](https://github.com/CatOS-Scratch/CatOS/blob/main/LICENSE)
+[![Open issues](https://img.shields.io/github/issues-raw/CatOS-Scratch/CatOS?logo=github)](https://github.com/CatOS-Scratch/CatOS/issues) ![Last commit](https://img.shields.io/github/last-commit/CatOS-Scratch/CatOS?logo=github) ![Repo file count](https://img.shields.io/github/directory-file-count/CatOS-Scratch/CatOS?label=file%20count&logo=github) ![Repo size in bytes](https://img.shields.io/github/repo-size/CatOS-Scratch/CatOS?logo=github) ![Code size in bytes](https://img.shields.io/github/languages/code-size/CatOS-Scratch/CatOS?logo=scratch) [![Latest stable release](https://img.shields.io/github/v/release/CatOS-Scratch/CatOS?label=latest%20stable%20release&logo=github)](https://github.com/CatOS-Scratch/CatOS/releases/latest) [![Latest public beta release](https://img.shields.io/github/v/release/CatOS-Scratch/CatOS?include_prereleases&label=latest%20public%20beta%20release&logo=github)](https://github.com/CatOS-Scratch/CatOS/releases) [![License](https://img.shields.io/github/license/CatOS-Scratch/CatOS?logo=scratch)](https://github.com/CatOS-Scratch/CatOS/blob/main/LICENSE) [![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat)](#contributors-)
 
 ## Contributors ✨
 
@@ -23,4 +20,4 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
-This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
+The CatOS project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome! Add yourself to the list [here](https://github.com/CatOS-Scratch/CatOS/issues/1).
