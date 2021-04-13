@@ -2,7 +2,7 @@
 name: Bug report
 about: Create a bug report to help us improve
 title: 'Bug - '
-labels: bug, help wanted
+labels: 'type: bug report, status: help wanted, scope: core'
 assignees: ''
 
 ---
